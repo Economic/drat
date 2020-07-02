@@ -1,0 +1,7 @@
+Package: epiextractr
+Version: 0.2.0
+Imports: dplyr, purrr, tibble, labelled, arrow
+Suggests: knitr, rmarkdown, pkgdown, tidyverse
+License: MIT + file LICENSE
+MD5sum: 329a4fc6478f467ca209d97a83a94180
+NeedsCompilation: no
