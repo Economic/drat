@@ -3,12 +3,5 @@ Version: 0.2.0
 Imports: dplyr, purrr, tibble, labelled, arrow
 Suggests: knitr, rmarkdown, pkgdown, tidyverse
 License: MIT + file LICENSE
-MD5sum: 0d065e66e147ffbfeec043aebe333cfa
-NeedsCompilation: no
-
-Package: epir
-Version: 0.1.0
-Imports: dplyr, magrittr, tidyr, rlang, labelled
-License: MIT + file LICENSE
-MD5sum: 4d0dabd9e11bad97728cab3ea5d9e0f7
+MD5sum: 14925745e2d3869e17419578add9b9f4
 NeedsCompilation: no
